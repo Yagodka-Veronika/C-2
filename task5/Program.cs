@@ -6,10 +6,10 @@
 
 Console.WriteLine("Введите число"); 
 int number = Convert.ToInt32(Console.ReadLine()); 
-int temp = 0 - number; 
+int temp = -number; // 0-number
  
 while (temp <= number) 
 { 
-    Console.WriteLine(temp); // console.write($"{temp} ");
-    temp++; //temp=tenp+1
+    Console.Write($"{temp} "); // Console.WriteLine(temp);
+    temp++; //temp=temp+1
 }
