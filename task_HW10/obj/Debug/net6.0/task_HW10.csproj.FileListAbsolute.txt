@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task_HW10\bin\Debug\net6.0\task_HW10.exe
+D:\программирование\мама\C#2\task_HW10\bin\Debug\net6.0\task_HW10.deps.json
+D:\программирование\мама\C#2\task_HW10\bin\Debug\net6.0\task_HW10.runtimeconfig.json
+D:\программирование\мама\C#2\task_HW10\bin\Debug\net6.0\task_HW10.dll
+D:\программирование\мама\C#2\task_HW10\bin\Debug\net6.0\ref\task_HW10.dll
+D:\программирование\мама\C#2\task_HW10\bin\Debug\net6.0\task_HW10.pdb
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.AssemblyInfo.cs
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.dll
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\ref\task_HW10.dll
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.pdb
+D:\программирование\мама\C#2\task_HW10\obj\Debug\net6.0\task_HW10.genruntimeconfig.cache

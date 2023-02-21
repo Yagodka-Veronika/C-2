@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.AssemblyInfo.cs
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task_HW13\bin\Debug\net6.0\task_HW13.exe
+D:\программирование\мама\C#2\task_HW13\bin\Debug\net6.0\task_HW13.deps.json
+D:\программирование\мама\C#2\task_HW13\bin\Debug\net6.0\task_HW13.runtimeconfig.json
+D:\программирование\мама\C#2\task_HW13\bin\Debug\net6.0\task_HW13.dll
+D:\программирование\мама\C#2\task_HW13\bin\Debug\net6.0\ref\task_HW13.dll
+D:\программирование\мама\C#2\task_HW13\bin\Debug\net6.0\task_HW13.pdb
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.dll
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\ref\task_HW13.dll
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.pdb
+D:\программирование\мама\C#2\task_HW13\obj\Debug\net6.0\task_HW13.genruntimeconfig.cache
