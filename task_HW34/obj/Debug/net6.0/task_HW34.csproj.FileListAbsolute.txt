@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task_HW34\bin\Debug\net6.0\task_HW34.exe
+D:\программирование\мама\C#2\task_HW34\bin\Debug\net6.0\task_HW34.deps.json
+D:\программирование\мама\C#2\task_HW34\bin\Debug\net6.0\task_HW34.runtimeconfig.json
+D:\программирование\мама\C#2\task_HW34\bin\Debug\net6.0\task_HW34.dll
+D:\программирование\мама\C#2\task_HW34\bin\Debug\net6.0\ref\task_HW34.dll
+D:\программирование\мама\C#2\task_HW34\bin\Debug\net6.0\task_HW34.pdb
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.AssemblyInfo.cs
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.dll
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\ref\task_HW34.dll
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.pdb
+D:\программирование\мама\C#2\task_HW34\obj\Debug\net6.0\task_HW34.genruntimeconfig.cache

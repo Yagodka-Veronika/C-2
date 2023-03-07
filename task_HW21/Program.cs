@@ -2,21 +2,30 @@
 // Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
- //d = √ (х А – х В) 2 + (у А – у В) 2 + (z А – z В) 2 
+ //d = √ (х А – х В) 2 + (у А – у В) 2 + (z А – z В) 2   
 
- double Pront(string message) 
- { 
-   System.Console.Write(message); 
-   double result = Convert.ToDouble(System.Console.ReadLine()); 
-   return result; 
- } 
+  double Distance3D(double ax, double ay, double az, double bx,double by,double bz)
+ {
+    double distance = Math.Sqrt(Math.Pow(bx - ax, 2) + Math.Pow(by - ay, 2) + Math.Pow(bz - az, 2));        
+     return Math.Round(distance, 2);
+ }
 
- double AX = Pront("Ведите координаты AX: "); 
- double AY = Pront("Ведите координаты AY: "); 
- double AZ = Pront("Ведите координаты AZ: "); 
- double BX = Pront("Ведите координаты BX: "); 
- double BY = Pront("Ведите координаты BY: "); 
- double BZ = Pront("Ведите координаты BZ: "); 
+ Console.Write("Введите координату Х точки А: ");
+ double Ax = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Введите координату Y точки А: ");
+ double Ay = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Введите координату Z точки A: ");
+ double Az = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Введите координату X точки B: ");
+ double Bx = Convert.ToDouble(Console.ReadLine());
+  Console.Write("Введите координату Y точки B: ");
+ double By = Convert.ToDouble(Console.ReadLine());
+  Console.Write("Введите координату Z точки B: ");
+ double Bz = Convert.ToDouble(Console.ReadLine());
 
- double d = Math.Round(Math.Sqrt((Math.Pow(AX - BX, 2)) + (Math.Pow(AY - BY, 2)) + (Math.Pow(AZ - BZ, 2))), 2); //2); (х А – х В) 2 + (у А – у В) 2+(z А – z В) 2 
- System.Console.WriteLine(d); 
+ double result = Distance3D(Ax, Ay, Az, Bx, By, Bz);
+ System.Console.WriteLine(result);
+
+
+
+

@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task33\bin\Debug\net6.0\task33.exe
+D:\программирование\мама\C#2\task33\bin\Debug\net6.0\task33.deps.json
+D:\программирование\мама\C#2\task33\bin\Debug\net6.0\task33.runtimeconfig.json
+D:\программирование\мама\C#2\task33\bin\Debug\net6.0\task33.dll
+D:\программирование\мама\C#2\task33\bin\Debug\net6.0\ref\task33.dll
+D:\программирование\мама\C#2\task33\bin\Debug\net6.0\task33.pdb
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.AssemblyInfo.cs
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.dll
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\ref\task33.dll
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.pdb
+D:\программирование\мама\C#2\task33\obj\Debug\net6.0\task33.genruntimeconfig.cache

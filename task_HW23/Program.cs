@@ -15,3 +15,4 @@
  { 
    Console.Write($"{Math.Pow(i,3)} "); 
  }
+

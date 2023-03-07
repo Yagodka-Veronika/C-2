@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task46\bin\Debug\net6.0\task46.exe
+D:\программирование\мама\C#2\task46\bin\Debug\net6.0\task46.deps.json
+D:\программирование\мама\C#2\task46\bin\Debug\net6.0\task46.runtimeconfig.json
+D:\программирование\мама\C#2\task46\bin\Debug\net6.0\task46.dll
+D:\программирование\мама\C#2\task46\bin\Debug\net6.0\ref\task46.dll
+D:\программирование\мама\C#2\task46\bin\Debug\net6.0\task46.pdb
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.AssemblyInfo.cs
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.dll
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\ref\task46.dll
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.pdb
+D:\программирование\мама\C#2\task46\obj\Debug\net6.0\task46.genruntimeconfig.cache
