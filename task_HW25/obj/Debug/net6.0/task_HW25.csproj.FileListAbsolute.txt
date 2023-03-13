@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.AssemblyInfo.cs
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task_HW25\bin\Debug\net6.0\task_HW25.exe
+D:\программирование\мама\C#2\task_HW25\bin\Debug\net6.0\task_HW25.deps.json
+D:\программирование\мама\C#2\task_HW25\bin\Debug\net6.0\task_HW25.runtimeconfig.json
+D:\программирование\мама\C#2\task_HW25\bin\Debug\net6.0\task_HW25.dll
+D:\программирование\мама\C#2\task_HW25\bin\Debug\net6.0\ref\task_HW25.dll
+D:\программирование\мама\C#2\task_HW25\bin\Debug\net6.0\task_HW25.pdb
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.dll
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\ref\task_HW25.dll
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.pdb
+D:\программирование\мама\C#2\task_HW25\obj\Debug\net6.0\task_HW25.genruntimeconfig.cache
