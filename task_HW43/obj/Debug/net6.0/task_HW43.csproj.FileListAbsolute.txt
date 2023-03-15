@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task_HW43\bin\Debug\net6.0\task_HW43.exe
+D:\программирование\мама\C#2\task_HW43\bin\Debug\net6.0\task_HW43.deps.json
+D:\программирование\мама\C#2\task_HW43\bin\Debug\net6.0\task_HW43.runtimeconfig.json
+D:\программирование\мама\C#2\task_HW43\bin\Debug\net6.0\task_HW43.dll
+D:\программирование\мама\C#2\task_HW43\bin\Debug\net6.0\ref\task_HW43.dll
+D:\программирование\мама\C#2\task_HW43\bin\Debug\net6.0\task_HW43.pdb
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.AssemblyInfo.cs
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.dll
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\ref\task_HW43.dll
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.pdb
+D:\программирование\мама\C#2\task_HW43\obj\Debug\net6.0\task_HW43.genruntimeconfig.cache
