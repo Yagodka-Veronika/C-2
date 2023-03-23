@@ -7,58 +7,76 @@
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
 
-int[,] ArrayMxN(int row, int column)
+
+
+
+
+int[,] FillMatrixWithRandom(int row, int column)
 {
     int[,] matrix = new int[row, column];
     Random rnd = new Random();
-
-    for (int i = 0; i < row; i++)
+    for(int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < column; j++)
+        for(int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = rnd.Next(-100, 101);
+            matrix[i,j] = rnd.Next(0, 10);
         }
     }
     return matrix;
 }
 
-void PrintArrayMxN(int[,] matrix)
+void PrintMatrix(int[,] matrix)
 {
-    Console.WriteLine();
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    for(int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < matrix.GetLength(1); j++)
+        for(int j = 0; j < matrix.GetLength(1); j++)
         {
-            System.Console.Write(matrix[i, j] + "\t");
+            System.Console.Write(matrix[i,j] + " ");
         }
         Console.WriteLine();
     }
-    Console.WriteLine();
 }
 
-void NumberByPosition(int[,] matrix, int indexI, int indexJ)
+
+
+void FindNumber(int[,] matrix, int indexI, int indexJ)
 {
-
-
     if (indexI>=matrix.GetLength(0) || indexJ>=matrix.GetLength(1))
+        {
+            Console.Write($"Такого числа в массиве нет!"); 
+        }
+    for (int i=0; i < matrix.GetLength(0); i++)
     {
-        System.Console.Write($"\nТакого числа в массиве нет");
-    }
-    else
-    {
-        int M = matrix[indexI, indexJ];
-        System.Console.Write($"\nПозиция {indexI}{indexJ} = {M}" + "\n");
-    }
+        for(int j=0; j < matrix.GetLength(1); j++)
+        {
+            if (i==indexI-1 && j==indexJ-1)
+                {
+                    Console.Write($"-> " + matrix[i,j]);
+                }
+        }
+    }  
 }
 
-int row = 5;
-int column = 5;
-int[,] matrix = ArrayMxN(row, column);
-PrintArrayMxN(matrix);
-System.Console.Write("Введите позицию X: ");
-int x = Convert.ToInt32(Console.ReadLine());
-System.Console.Write("Введите позицию Y: ");
-int y = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите кол-во строк: ");
+int row = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите кол-во столбцов: ");
+int column = Convert.ToInt32(Console.ReadLine());
+int[,] matrix = FillMatrixWithRandom(row, column);
+PrintMatrix(matrix);
+Console.Write("Выберите строку ");
+int indexI = Convert.ToInt32(Console.ReadLine());
+Console.Write("Выберите столбец ");
+int indexJ = Convert.ToInt32(Console.ReadLine());
+FindNumber(matrix, indexI, indexJ);
 
 
-NumberByPosition(matrix, x, y);
+
+
+
+
+
+
+
+
+
+
